@@ -1,2 +1,2 @@
 # ePortfolio
-theme: Architect
+
