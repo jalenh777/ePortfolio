@@ -2,6 +2,10 @@
 
 This portfolio represents my work throughout the Computer Science program. It highlights my growth in software development, problem-solving, and system design. Each artifact includes both original and enhanced versions of my work to demonstrate my ability to analyze and improve existing code.
 
+## Professional Self-Assessment
+This document reflects my growth throughout the program and explains how my skills have developed over time.
+[View Self-Assessment](https://github.com/jalenh777/ePortfolio/blob/main/Professional%20Self%20Assessment.docx)
+
 ## Code Review Video
 This video provides an overview of my artifacts and explains the enhancements I made.
 [Watch Code Review](https://youtu.be/15Dtve-yJFk)
@@ -21,11 +25,6 @@ This artifact is based on my full stack application. The enhancements focus on i
 - Orginal and Enhanced Code (https://github.com/jalenh777/ePortfolio/blob/main/Full%20Stack%20App%20Artifact.zip)
 - Narrative (https://github.com/jalenh777/ePortfolio/blob/main/Databases%20Narrative.docx)
 
-## Professional Self-Assessment
-This document reflects my growth throughout the program and explains how my skills have developed over time.
-[View Self-Assessment](https://github.com/jalenh777/ePortfolio/blob/main/Professional%20Self%20Assessment.docx)
-
 ## Live ePortfolio
 You can view the full portfolio site here:
-
 [View My ePortfolio](https://jalenh777.github.io/ePortfolio/)
