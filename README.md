@@ -28,4 +28,4 @@ This document reflects my growth throughout the program and explains how my skil
 ## Live ePortfolio
 You can view the full portfolio site here:
 
-[View My ePortfolio]()
+[View My ePortfolio](https://jalenh777.github.io/ePortfolio/)
